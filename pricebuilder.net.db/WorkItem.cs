@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace pricebuilder.net.db
+namespace ef.pricebuilder.net.db
 {
     using System;
     using System.Collections.Generic;
