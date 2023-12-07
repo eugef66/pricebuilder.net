@@ -6,4 +6,8 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\pricebuilder.net.db\pricebuilder.net.db.csproj" />
+  </ItemGroup>
+
 </Project>
